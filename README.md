@@ -1,4 +1,4 @@
-### Predicting COPD onset risk thorugh Machine Learning techniques
+# Predicting COPD onset risk thorugh Machine Learning techniques
 
 This project aims to predict the 10-year risk of developing Chronic Obstructive Pulmonary Disease (COPD) in aging adults using a logistic regression model. The dataset comprises health data from 3,980 UK subjects, each represented by 18 baseline features and a binary COPD outcome (1 = COPD, 0 = No COPD).
 
